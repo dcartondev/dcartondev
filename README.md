@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Dinion 👋
 
-<!--
-**dcartondev/dcartondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics graduate applying machine learning and data analysis to real-world problems, with a focus on sustainability and health.
 
-Here are some ideas to get you started:
+## 🔍 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Build data-driven solutions using Python, ML, and analytics
+* Translate complex data into clear, actionable insights
+* Interested in AI applications with real-world impact
+
+## 📌 Projects
+
+* 🌍 **Air Pollution ML Project**
+  Machine learning model to separate local and regional emission sources of sulphate using environmental and meteorological data.
+
+* 📊 **(Coming soon) Demand Forecasting Project**
+  Predicting demand patterns to support data-driven business decisions.
+
+## 🛠️ Tools & Skills
+
+Python (pandas, scikit-learn)
+Data analysis & visualisation (Matplotlib, Plotly)
+Currently learning: SQL, Advanced Excel
+
+## 📫 Connect with me
+
+LinkedIn: (https://www.linkedin.com/in/dinion-carton/)
