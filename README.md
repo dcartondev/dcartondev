@@ -1,27 +1,35 @@
 # Hi, I’m Dinion 👋
 
-Physics graduate applying machine learning and data analysis to real-world problems, with a focus on sustainability and health.
+Physics graduate interested in using data, machine learning and AI to solve real-world problems, especially in sustainability, health and operations.
 
-## 🔍 What I do
+I enjoy projects that combine technical analysis with clear communication: taking messy data, finding patterns, building useful tools, and explaining the outcome to people who need to make decisions.
 
-* Build data-driven solutions using Python, ML, and analytics
-* Translate complex data into clear, actionable insights
-* Interested in AI applications with real-world impact
+## What I’m building
 
-## 📌 Projects
+### 🌍 Air Pollution Source Separation using Machine Learning
+Machine learning project using environmental and meteorological data to estimate local and regional sulphate contributions in Dublin air pollution data.
 
-* 🌍 **Air Pollution ML Project**
-  Machine learning model to separate local and regional emission sources of sulphate using environmental and meteorological data.
+**Skills used:** Python, pandas, scikit-learn, SVR, XGBoost, feature engineering, environmental data analysis, model evaluation.
 
-* 📊 **(Coming soon) Demand Forecasting Project**
-  Predicting demand patterns to support data-driven business decisions.
+### 🧠 Clinical NLP Reporting Pipeline *(in development)*
+Applied AI project using large language models to extract and structure key information from anonymised qualitative interview data into baseline report formats.
 
-## 🛠️ Tools & Skills
+**Skills used:** Python, NLP, Azure OpenAI, prompt engineering, structured outputs, GDPR-aware workflow design.
 
-Python (pandas, scikit-learn)
-Data analysis & visualisation (Matplotlib, Plotly)
-Currently learning: SQL, Advanced Excel
+## Skills
 
-## 📫 Connect with me
+**Programming and data:** Python, pandas, NumPy, scikit-learn, Matplotlib, Plotly  
+**Machine learning:** regression models, feature engineering, model evaluation, time-series analysis  
+**AI and NLP:** Azure OpenAI, LLM workflows, text extraction, structured reporting  
+**Currently developing:** SQL, advanced Excel, Power BI  
 
-LinkedIn: (https://www.linkedin.com/in/dinion-carton/)
+## Background
+
+- BSc Physics and Applied Physics, University of Galway
+- Sustainability Intern, University of Galway
+- Technical Assistant, Kinsella & Associates Nursing Consultants
+- Chair, Women in STEM Society
+
+## Career interests
+
+I am interested in analytics, AI consulting, health data, sustainability data, and roles that combine technical problem-solving with stakeholder communication.
