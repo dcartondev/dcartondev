@@ -32,4 +32,4 @@ Applied AI project using large language models to extract and structure key info
 
 ## Career interests
 
-I am interested in analytics, AI consulting, health data, sustainability data, and roles that combine technical problem-solving with stakeholder communication.
+I am interested in analytics, AI, health data, sustainability data, and roles that combine technical problem-solving with stakeholder communication.
