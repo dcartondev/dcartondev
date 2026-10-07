@@ -1,35 +1,34 @@
-# Hi, I’m Dinion 👋
+# Hi, I'm Dinion 👋
 
-Physics graduate interested in using data, machine learning and AI to solve real-world problems, especially in sustainability, health and operations.
+MSc Medical Physics student with a background in physics and machine learning. I'm interested in how imaging, radiotherapy and AI technology are adopted in real clinical settings, and in helping the people who use these tools get the most out of them.
 
-I enjoy projects that combine technical analysis with clear communication: taking messy data, finding patterns, building useful tools, and explaining the outcome to people who need to make decisions.
+I enjoy work that combines technical understanding with clear communication: understanding how a system works, then explaining it in a way that makes sense to the person using it.
 
-## What I’m building
+## Projects
+
+### 🩻 Auto-contouring for Radiotherapy *(coming soon, MSc project)*
+Deep learning for automatic organ-at-risk segmentation in radiotherapy treatment planning, with a focus on clinical usability as well as accuracy.
 
 ### 🌍 Air Pollution Source Separation using Machine Learning
-Machine learning project using environmental and meteorological data to estimate local and regional sulphate contributions in Dublin air pollution data.
+BSc thesis using environmental and meteorological data to estimate local and regional sulphate contributions in Dublin air pollution.
 
-**Skills used:** Python, pandas, scikit-learn, SVR, XGBoost, feature engineering, environmental data analysis, model evaluation.
-
-### 🧠 Clinical NLP Reporting Pipeline *(in development)*
-Applied AI project using large language models to extract and structure key information from anonymised qualitative interview data into baseline report formats.
-
-**Skills used:** Python, NLP, Azure OpenAI, prompt engineering, structured outputs, GDPR-aware workflow design.
+**Skills used:** Python, pandas, scikit-learn, SVR, XGBoost, feature engineering, model evaluation, time-series analysis.
 
 ## Skills
 
-**Programming and data:** Python, pandas, NumPy, scikit-learn, Matplotlib, Plotly  
-**Machine learning:** regression models, feature engineering, model evaluation, time-series analysis  
-**AI and NLP:** Azure OpenAI, LLM workflows, text extraction, structured reporting  
-**Currently developing:** SQL, advanced Excel, Power BI  
+**Medical physics:** medical imaging, radiation fundamentals and protection, anatomy and physiology, biostatistics
+**Programming and data:** Python, pandas, NumPy, scikit-learn, Matplotlib, Plotly, SQL
+**Machine learning and AI:** regression models, model evaluation, deep learning (in progress), LLM workflows
+**Communication:** presenting to groups, training non-technical users, technical writing
 
 ## Background
 
+- MSc Medical Physics (in progress)
 - BSc Physics and Applied Physics, University of Galway
-- Sustainability Intern, University of Galway
-- Technical Assistant, Kinsella & Associates Nursing Consultants
-- Chair, Women in STEM Society
+- Technical Assistant, medico-legal nursing consultancy
+- Tour Guide, Galway Food Tour
+- Auditor, Women in STEM Society, University of Galway
 
-## Career interests
+## Interests
 
-I am interested in analytics, AI, health data, sustainability data, and roles that combine technical problem-solving with stakeholder communication.
+Clinical applications of medical technology, AI in healthcare, and roles where technical knowledge meets people: training, supporting and working alongside clinical teams.
